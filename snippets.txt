@@ -1,3 +1,4 @@
+Anton
 Trigger	Content
 rcc>	class component skeleton
 rrc>	class component skeleton with react-redux connect
